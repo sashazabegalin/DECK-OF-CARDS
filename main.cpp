@@ -59,14 +59,6 @@ int main() {
     }
     
     cout << LINE << endl;
-    // TODO (8): should we print the card name?  (Does the match word equal the suit name OR the rank name?)
-    
-    // }
-    // }
-    
-    // TODO: (9) output (no matches) if nothing matched
-    
-    // TODO: (10) finish output with a line
     
     return 0;
 }
